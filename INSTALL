@@ -1,0 +1,9 @@
+Building BTCGold
+
+See doc/readme-qt.rst for instructions on building BTCGold-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BTCGold.
+
+See doc/build-*.txt for instructions on building BTCGoldd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BTCGold.
